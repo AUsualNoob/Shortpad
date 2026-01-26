@@ -18,7 +18,7 @@ I regret not adding a ground plane, I didn't even use any traces on the bottom
 
 # CAD:
 <img width="762" height="500" alt="image" src="https://github.com/user-attachments/assets/4991c3ab-0e73-43e0-8bc7-aeaec7c702eb" />
-Made with Fusion360
+Made with Fusion360, idk what else to add honestly
 
 # Firmware overview:
 The firmware was made using KMK and CircuitPython
