@@ -14,10 +14,12 @@ The shortpad is a 5 Key macropad that uses KMK for software
 
 ## PCB:
 <img width="514" height="421" alt="image" src="https://github.com/user-attachments/assets/d79e4c9e-375b-430d-ba24-85832273dffa" />
+
 I regret not adding a ground plane, I didn't even use any traces on the bottom
 
 # CAD:
 <img width="762" height="500" alt="image" src="https://github.com/user-attachments/assets/4991c3ab-0e73-43e0-8bc7-aeaec7c702eb" />
+
 Made with Fusion360, idk what else to add honestly
 
 # Firmware overview:
