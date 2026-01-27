@@ -2,7 +2,7 @@
 The shortpad is a 5 Key macropad that uses KMK for software
 
 # Features:
-- 91" OLED display
+- 0.91" OLED display
 - 4 Keys for shortcuts
 - 1 Key to display what each key does via the OLED
 - Utilizes the XIAO RP2040 for firmware
