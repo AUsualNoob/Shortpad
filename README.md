@@ -20,6 +20,9 @@ I regret not adding a ground plane, I didn't even use any traces on the bottom
 # CAD:
 <img width="762" height="500" alt="image" src="https://github.com/user-attachments/assets/4991c3ab-0e73-43e0-8bc7-aeaec7c702eb" />
 
+<img width="742" height="494" alt="image" src="https://github.com/user-attachments/assets/40c0559b-1724-48f2-a429-e5945f61fdbe" />
+
+
 Made with Fusion360, idk what else to add honestly
 
 # Firmware overview:
